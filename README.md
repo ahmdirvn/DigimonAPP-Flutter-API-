@@ -1,18 +1,5 @@
 # digimon
 
-A new Flutter project.
+preview :
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter-DigimonList-consum-API-
-# DigimonAPP-Flutter-API-
+![digimon](https://github.com/ahmdirvn/DigimonAPP-Flutter-API-/assets/98068506/830c5688-57a0-4e4d-9be7-e4df68521804)
