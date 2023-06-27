@@ -1,0 +1,4 @@
+#Tue Jun 27 16:10:21 ICT 2023
+base.0=D\:\\KULIAH\\SEMESTER 3\\MOBILE PROGAMMING\\PRAKTEK\\coding\\digimon\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
